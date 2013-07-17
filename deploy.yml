@@ -1,0 +1,10 @@
+admin_password: testtest
+application_name: cmstest
+django_settings: djangocms_openshift.settings
+managepy: ./manage.py
+media_url: /media/
+project_name: djangocms_openshift
+provider: openshift
+pyversion: Python2.7
+requirements: test_requirements/django-1.5.txt
+static_url: /static/

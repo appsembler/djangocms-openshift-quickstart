@@ -1,0 +1,1 @@
+-r test_requirements/django-1.5.txt

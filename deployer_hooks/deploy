@@ -1,0 +1,13 @@
+#!/bin/bash
+PROJECT_NAME=djangocms_openshift
+REQUIREMENTS=test_requirements/django-1.5.txt
+PYVERSION=Python2.7
+STATIC_URL=/static/
+DJANGO_SETTINGS=djangocms_openshift.settings
+ADMIN_PASSWORD=testtest
+PROVIDER=openshift
+APPLICATION_NAME=cmstest
+MANAGEPY=./manage.py
+MEDIA_URL=/media/
+
+echo "$0 has been executed!"
