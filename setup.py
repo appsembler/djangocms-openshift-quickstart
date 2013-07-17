@@ -22,5 +22,5 @@ setup(name=PROJECT_NAME,
 	packages=find_packages(),
 	include_package_data=True,
     description=DESCRIPTION,
-    #    install_requires=REQUIREMENTS)
+    install_requires=['django-cms']
     )
